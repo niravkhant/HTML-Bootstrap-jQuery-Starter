@@ -1,0 +1,18 @@
+:root {
+  --color-primary: #2f327d;
+  --color-secondary: #ff6d7b;
+  --color-dark: #212121;
+  --section-spacing: 60px;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: "Poppins", "work-sans", sans-serif;
+}
+body {
+  scroll-behavior: smooth;
+}
+p {
+  margin: 0;
+}
